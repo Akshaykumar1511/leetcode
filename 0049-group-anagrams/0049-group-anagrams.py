@@ -1,7 +1,11 @@
+from collections import defaultdict
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        fin=defaultdict(list)
+        anag=defaultdict(list)
         for word in strs:
-            key=tuple(sorted(Counter(word).items()))
-            fin[key].append(word)
-        return list(fin.values())
+            count=[0]*26
+            for s in word:
+                count[ord(s)-ord('a')]+=1
+            key=tuple(count)
+            anag[key].append(word)
+        return list(anag.values())
