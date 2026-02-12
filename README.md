@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Akshaykumar1511/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Akshaykumar1511/leetcode/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Akshaykumar1511/leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Akshaykumar1511/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Akshaykumar1511/leetcode/tree/master/0217-contains-duplicate) |
 | [1929-concatenation-of-array](https://github.com/Akshaykumar1511/leetcode/tree/master/1929-concatenation-of-array) |
@@ -32,6 +33,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Akshaykumar1511/leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Akshaykumar1511/leetcode/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
