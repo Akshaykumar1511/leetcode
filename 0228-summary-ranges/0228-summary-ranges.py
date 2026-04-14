@@ -1,15 +1,14 @@
 class Solution:
     def summaryRanges(self, nums: List[int]) -> List[str]:
-        ot=[]
-        j= None
-        for i in range(len(nums)):
-            if j==None:
-                j=nums[i]
-            if i==len(nums)-1 or nums[i+1]!=nums[i]+1:
-                if nums[i]==j:
-                    ot.append(str(nums[i]))
-                    j=None
-                else:
-                    ot.append(str(f"{j}->{nums[i]}"))
-                    j=None
-        return ot
+        ans=[]
+        i=0
+        while i<len(nums):
+            sum=nums[i]
+            while i<len(nums)-1 and nums[i+1]==nums[i]+1:
+                i+=1
+            if nums[i]==sum:
+                ans.append(str(sum))
+            else:
+                ans.append(str(sum)+"->"+str(nums[i]))
+            i+=1
+        return ans
