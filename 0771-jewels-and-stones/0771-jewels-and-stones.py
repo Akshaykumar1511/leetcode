@@ -1,3 +1,9 @@
+from collections import Counter
 class Solution:
     def numJewelsInStones(self, jewels: str, stones: str) -> int:
-        return sum(s in set(jewels) for s in stones)
+        count=Counter(stones)
+        cnt=0
+        for i,j in count.items():
+            if i in jewels:
+                cnt+=j
+        return cnt
