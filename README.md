@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/Akshaykumar1511/leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Akshaykumar1511/leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Akshaykumar1511/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Akshaykumar1511/leetcode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshaykumar1511/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Akshaykumar1511/leetcode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Akshaykumar1511/leetcode/tree/master/0228-summary-ranges) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Akshaykumar1511/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Akshaykumar1511/leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Akshaykumar1511/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Akshaykumar1511/leetcode/tree/master/0242-valid-anagram) |
 ## String
