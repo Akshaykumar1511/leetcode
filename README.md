@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/Akshaykumar1511/leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Akshaykumar1511/leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Akshaykumar1511/leetcode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Akshaykumar1511/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Akshaykumar1511/leetcode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshaykumar1511/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Akshaykumar1511/leetcode/tree/master/0217-contains-duplicate) |
@@ -61,6 +62,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Akshaykumar1511/leetcode/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/Akshaykumar1511/leetcode/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
@@ -71,4 +73,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Akshaykumar1511/leetcode/tree/master/0238-product-of-array-except-self) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Akshaykumar1511/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
