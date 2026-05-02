@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Akshaykumar1511/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Akshaykumar1511/leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Akshaykumar1511/leetcode/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/Akshaykumar1511/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Akshaykumar1511/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Akshaykumar1511/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Akshaykumar1511/leetcode/tree/master/0056-merge-intervals) |
@@ -55,6 +56,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Akshaykumar1511/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Akshaykumar1511/leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Akshaykumar1511/leetcode/tree/master/0048-rotate-image) |
 ## Trie
 |  |
 | ------- |
@@ -76,5 +78,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Akshaykumar1511/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Akshaykumar1511/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
