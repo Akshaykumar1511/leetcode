@@ -1,13 +1,19 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        resa,resb=[0]*26,[0]*26
+        countera={}
+        counterb={}
         for i in s:
-            a=ord(i)-97
-            resa[a]+=1
+            if i not in countera:
+                countera[i]=1
+            else:
+                countera[i]+=1
         for i in t:
-            a=ord(i)-97
-            resb[a]+=1
-        if resa==resb:
+            if i not in counterb:
+                counterb[i]=1
+            else:
+                counterb[i]+=1
+
+        if countera==counterb:
             return True
         else:
             return False
