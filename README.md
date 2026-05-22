@@ -27,6 +27,7 @@
 | [0242-valid-anagram](https://github.com/Akshaykumar1511/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Akshaykumar1511/leetcode/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/Akshaykumar1511/leetcode/tree/master/0771-jewels-and-stones) |
+| [1189-maximum-number-of-balloons](https://github.com/Akshaykumar1511/leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0383-ransom-note](https://github.com/Akshaykumar1511/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Akshaykumar1511/leetcode/tree/master/0392-is-subsequence) |
 | [0771-jewels-and-stones](https://github.com/Akshaykumar1511/leetcode/tree/master/0771-jewels-and-stones) |
+| [1189-maximum-number-of-balloons](https://github.com/Akshaykumar1511/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/Akshaykumar1511/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Two Pointers
 |  |
@@ -86,4 +88,5 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Akshaykumar1511/leetcode/tree/master/0383-ransom-note) |
+| [1189-maximum-number-of-balloons](https://github.com/Akshaykumar1511/leetcode/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
