@@ -8,8 +8,10 @@ class Solution:
                 a[i]=a[i]+1
             else:
                 a[i]=1
-        b={"a","b","l","o","n"}
-        if all(ch in a for ch in "ballon"):
-            return min(a["b"],a["a"],a["l"]//2,a["o"]//2,a["n"])
-        else:
-            return 0
+        return min(
+            a.get("b",0),
+            a.get("a",0),
+            a.get("l",0)//2,
+            a.get("o",0)//2,
+            a.get("n",0)
+        )
