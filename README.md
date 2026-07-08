@@ -14,6 +14,7 @@
 | [0056-merge-intervals](https://github.com/Akshaykumar1511/leetcode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshaykumar1511/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Akshaykumar1511/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Akshaykumar1511/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Akshaykumar1511/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Akshaykumar1511/leetcode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Akshaykumar1511/leetcode/tree/master/0228-summary-ranges) |
@@ -70,6 +71,7 @@
 | [0009-palindrome-number](https://github.com/Akshaykumar1511/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Akshaykumar1511/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Akshaykumar1511/leetcode/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Akshaykumar1511/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Trie
 |  |
 | ------- |
@@ -113,5 +115,6 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Akshaykumar1511/leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Akshaykumar1511/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/Akshaykumar1511/leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
