@@ -18,6 +18,7 @@
 | [0217-contains-duplicate](https://github.com/Akshaykumar1511/leetcode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Akshaykumar1511/leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Akshaykumar1511/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0682-baseball-game](https://github.com/Akshaykumar1511/leetcode/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/Akshaykumar1511/leetcode/tree/master/1929-concatenation-of-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Akshaykumar1511/leetcode/tree/master/2239-find-closest-number-to-zero) |
 ## Hash Table
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Akshaykumar1511/leetcode/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/Akshaykumar1511/leetcode/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/Akshaykumar1511/leetcode/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
@@ -106,4 +108,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Akshaykumar1511/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Akshaykumar1511/leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
