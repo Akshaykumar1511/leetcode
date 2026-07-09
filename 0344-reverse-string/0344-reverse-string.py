@@ -5,9 +5,7 @@ class Solution:
         """
         l,r=0,len(s)-1
         while l<=r:
-            a=s[r]
-            s[r]=s[l]
-            s[l]=a
+            s[l],s[r]=s[r],s[l]
             l+=1
             r-=1
         
