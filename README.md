@@ -139,4 +139,8 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshaykumar1511/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Akshaykumar1511/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
