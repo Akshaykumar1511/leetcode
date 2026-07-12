@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Akshaykumar1511/leetcode/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Akshaykumar1511/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Akshaykumar1511/leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Akshaykumar1511/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshaykumar1511/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -146,6 +147,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Akshaykumar1511/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Akshaykumar1511/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/Akshaykumar1511/leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Akshaykumar1511/leetcode/tree/master/0876-middle-of-the-linked-list) |
