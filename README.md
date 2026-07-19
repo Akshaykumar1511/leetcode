@@ -158,4 +158,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Akshaykumar1511/leetcode/tree/master/0206-reverse-linked-list) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Akshaykumar1511/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
