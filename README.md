@@ -13,6 +13,7 @@
 | [0036-valid-sudoku](https://github.com/Akshaykumar1511/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Akshaykumar1511/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Akshaykumar1511/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Akshaykumar1511/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Akshaykumar1511/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Akshaykumar1511/leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Akshaykumar1511/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -106,6 +107,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Akshaykumar1511/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshaykumar1511/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Akshaykumar1511/leetcode/tree/master/0392-is-subsequence) |
 ## Prefix Sum
@@ -128,6 +130,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Akshaykumar1511/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Akshaykumar1511/leetcode/tree/master/0169-majority-element) |
 ## Union-Find
 |  |
