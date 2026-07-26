@@ -31,6 +31,7 @@
 | [0704-binary-search](https://github.com/Akshaykumar1511/leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Akshaykumar1511/leetcode/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/Akshaykumar1511/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Akshaykumar1511/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1929-concatenation-of-array](https://github.com/Akshaykumar1511/leetcode/tree/master/1929-concatenation-of-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Akshaykumar1511/leetcode/tree/master/2239-find-closest-number-to-zero) |
 ## Hash Table
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Akshaykumar1511/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/Akshaykumar1511/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -163,6 +165,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshaykumar1511/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Akshaykumar1511/leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Akshaykumar1511/leetcode/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/Akshaykumar1511/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -201,4 +204,5 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Akshaykumar1511/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Akshaykumar1511/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
