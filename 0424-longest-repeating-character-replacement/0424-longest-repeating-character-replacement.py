@@ -3,7 +3,7 @@ class Solution:
         cnt=0
         n=len(s)
         l=0
-        alcnt={"A":0,"B":0}
+        alcnt={}
         for r in range(n):
             if s[r] in alcnt:
                 alcnt[s[r]]+=1
