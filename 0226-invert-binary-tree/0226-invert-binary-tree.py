@@ -7,13 +7,21 @@ from collections import deque
 #         self.right = right
 class Solution:
     def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
+        # if not root:
+        #     return
+        # dq=deque()
+        # dq.append(root)
+        # while dq:
+        #     node=dq.popleft()
+        #     node.left,node.right=node.right,node.left
+        #     if node.left: dq.append(node.left)
+        #     if node.right: dq.append(node.right)
+        # return root
+
+        # recursion method
         if not root:
             return
-        dq=deque()
-        dq.append(root)
-        while dq:
-            node=dq.popleft()
-            node.left,node.right=node.right,node.left
-            if node.left: dq.append(node.left)
-            if node.right: dq.append(node.right)
+        root.left,root.right=root.right,root.left
+        self.invertTree(root.left)
+        self.invertTree(root.right)
         return root
