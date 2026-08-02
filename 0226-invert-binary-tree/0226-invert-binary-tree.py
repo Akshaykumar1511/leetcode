@@ -19,8 +19,25 @@ class Solution:
         # return root
 
         # recursion method
+        # if not root:
+        #     return
+        # root.left,root.right=root.right,root.left
+        # self.invertTree(root.left)
+        # self.invertTree(root.right)
+        # return root
+
+
+
+
+
+
+
+
+
+
+
         if not root:
-            return
+            return 
         root.left,root.right=root.right,root.left
         self.invertTree(root.left)
         self.invertTree(root.right)
