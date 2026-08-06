@@ -242,6 +242,7 @@
 | [0110-balanced-binary-tree](https://github.com/Akshaykumar1511/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Akshaykumar1511/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Akshaykumar1511/leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Akshaykumar1511/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Akshaykumar1511/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Akshaykumar1511/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -253,6 +254,7 @@
 | [0110-balanced-binary-tree](https://github.com/Akshaykumar1511/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Akshaykumar1511/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Akshaykumar1511/leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Akshaykumar1511/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Akshaykumar1511/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Akshaykumar1511/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
@@ -274,6 +276,7 @@
 | [0110-balanced-binary-tree](https://github.com/Akshaykumar1511/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Akshaykumar1511/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Akshaykumar1511/leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Akshaykumar1511/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Akshaykumar1511/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Akshaykumar1511/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
@@ -284,4 +287,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Akshaykumar1511/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Akshaykumar1511/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
