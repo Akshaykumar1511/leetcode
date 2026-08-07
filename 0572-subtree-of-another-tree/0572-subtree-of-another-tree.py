@@ -17,7 +17,7 @@ class Solution:
         def same(root,subRoot):
             if not root:
                 return False
-            elif root.val==subRoot.val and match(root,subRoot):
+            elif match(root,subRoot):
                 return True
             return same(root.left,subRoot) or same(root.right,subRoot)
         return same(root,subRoot)
