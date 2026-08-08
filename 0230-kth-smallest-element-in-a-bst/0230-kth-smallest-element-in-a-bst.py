@@ -17,16 +17,31 @@ class Solution:
         # traverse(root)
         # ans.sort()
         # return ans[k-1]
+        
+        #method 2
+        # count=[k]
+        # ans=[0]
+        # def rec(root):
+        #     if not root:
+        #         return
+        #     rec(root.left)
+        #     if count[0]==1:
+        #         ans[0]=root.val
+        #     count[0]-=1
+        #     if count[0]>0:
+        #         rec(root.right)
+        # rec(root)
+        # return ans[0]
+
         count=[k]
-        ans=[0]
         def rec(root):
             if not root:
-                return
-            rec(root.left)
-            if count[0]==1:
-                ans[0]=root.val
+                return None
+            ans=rec(root.left)
+            if ans is not None:
+                return ans
             count[0]-=1
-            if count[0]>0:
-                rec(root.right)
-        rec(root)
-        return ans[0]
+            if count[0]==0:
+                return root.val
+            return rec(root.right)
+        return rec(root)
