@@ -35,6 +35,7 @@
 | [0739-daily-temperatures](https://github.com/Akshaykumar1511/leetcode/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/Akshaykumar1511/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akshaykumar1511/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/Akshaykumar1511/leetcode/tree/master/1046-last-stone-weight) |
 | [1929-concatenation-of-array](https://github.com/Akshaykumar1511/leetcode/tree/master/1929-concatenation-of-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Akshaykumar1511/leetcode/tree/master/2239-find-closest-number-to-zero) |
 ## Hash Table
@@ -323,4 +324,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Akshaykumar1511/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/Akshaykumar1511/leetcode/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
