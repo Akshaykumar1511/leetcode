@@ -8,6 +8,4 @@ class Solution:
         heapq.heapify(num)
         for i in range(k-1):
             heapq.heappop(num)
-        for i in range(len(num)):
-            num[i]=-num[i]
-        return num[0]
+        return -num[0]
