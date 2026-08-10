@@ -35,6 +35,7 @@
 | [0682-baseball-game](https://github.com/Akshaykumar1511/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Akshaykumar1511/leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Akshaykumar1511/leetcode/tree/master/0739-daily-temperatures) |
+| [0973-k-closest-points-to-origin](https://github.com/Akshaykumar1511/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Akshaykumar1511/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akshaykumar1511/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Akshaykumar1511/leetcode/tree/master/1046-last-stone-weight) |
@@ -74,6 +75,7 @@
 | [0217-contains-duplicate](https://github.com/Akshaykumar1511/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Akshaykumar1511/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Akshaykumar1511/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Akshaykumar1511/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Akshaykumar1511/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -120,6 +122,7 @@
 | [0048-rotate-image](https://github.com/Akshaykumar1511/leetcode/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akshaykumar1511/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/Akshaykumar1511/leetcode/tree/master/0509-fibonacci-number) |
+| [0973-k-closest-points-to-origin](https://github.com/Akshaykumar1511/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Trie
 |  |
 | ------- |
@@ -165,6 +168,7 @@
 | [0169-majority-element](https://github.com/Akshaykumar1511/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshaykumar1511/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Akshaykumar1511/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Akshaykumar1511/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Union-Find
 |  |
 | ------- |
@@ -337,14 +341,24 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshaykumar1511/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Akshaykumar1511/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Akshaykumar1511/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Akshaykumar1511/leetcode/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshaykumar1511/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Akshaykumar1511/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Akshaykumar1511/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Akshaykumar1511/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Akshaykumar1511/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Akshaykumar1511/leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
