@@ -6,9 +6,8 @@ class Solution:
                 res.append(sol[:])
                 return
             for i in range(start,n+1):
-                if i not in sol:
-                    sol.append(i)
-                    backtrack(i+1)
-                    sol.pop()
+                sol.append(i)
+                backtrack(i+1)
+                sol.pop()
         backtrack(1)
         return res
