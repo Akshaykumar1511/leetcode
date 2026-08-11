@@ -378,6 +378,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Akshaykumar1511/leetcode/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/Akshaykumar1511/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Akshaykumar1511/leetcode/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
