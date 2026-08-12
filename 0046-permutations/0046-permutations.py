@@ -1,9 +1,9 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
-        n=len(nums)
         sol,res=[],[]
+        n=len(nums)
         def backtrack():
-            if n==len(sol):
+            if len(sol)==n:
                 res.append(sol[:])
                 return
             for i in nums:
