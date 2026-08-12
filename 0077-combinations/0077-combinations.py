@@ -1,6 +1,5 @@
 class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
-        sol,res=[],[]
         def backtrack(start):
             if len(sol)==k:
                 res.append(sol[:])
@@ -9,5 +8,7 @@ class Solution:
                 sol.append(i)
                 backtrack(i+1)
                 sol.pop()
+        
+        sol,res=[],[]
         backtrack(1)
         return res
