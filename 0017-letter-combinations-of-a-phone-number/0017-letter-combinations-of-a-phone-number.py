@@ -16,14 +16,11 @@ class Solution:
         }
         def backtrack(start):
             if len(sol)==n:
-                res.append(sol[:])
+                res.append("".join(sol[:]))
                 return
             for i in dic[digits[start]]:
                 sol.append(i)
                 backtrack(start+1)
                 sol.pop()
         backtrack(0)
-        ret=[]
-        for l in res:
-            ret.append("".join(l))
-        return ret
+        return res
