@@ -1,8 +1,8 @@
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
         n,m=len(board),len(board[0])
-        if (n==1 and m==1) and board[n-1][m-1]==word:
-            return True
+        if (n==1 and m==1):
+            return board[n-1][m-1]==word
         ln=len(word)
         def backtrack(pos,index):
             i,j=pos
