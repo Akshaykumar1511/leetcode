@@ -1,9 +1,5 @@
 class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
-        if digits=="":
-            return []
-        sol,res=[],[]
-        n=len(digits)
         dic={
             "2":"abc",
             "3": "def",
@@ -14,12 +10,14 @@ class Solution:
             "8": "tuv",
             "9": "wxyz"
         }
+        n=len(digits)
+        sol,res=[],[]
         def backtrack(start):
             if len(sol)==n:
                 res.append("".join(sol[:]))
                 return
-            for i in dic[digits[start]]:
-                sol.append(i)
+            for v in dic[digits[start]]:
+                sol.append(v)
                 backtrack(start+1)
                 sol.pop()
         backtrack(0)
