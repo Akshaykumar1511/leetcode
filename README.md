@@ -101,6 +101,7 @@
 | [0344-reverse-string](https://github.com/Akshaykumar1511/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Akshaykumar1511/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Akshaykumar1511/leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Akshaykumar1511/leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akshaykumar1511/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Akshaykumar1511/leetcode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Akshaykumar1511/leetcode/tree/master/0771-jewels-and-stones) |
@@ -131,6 +132,7 @@
 | [0013-roman-to-integer](https://github.com/Akshaykumar1511/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Akshaykumar1511/leetcode/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akshaykumar1511/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0412-fizz-buzz](https://github.com/Akshaykumar1511/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Akshaykumar1511/leetcode/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Akshaykumar1511/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Trie
@@ -142,6 +144,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Akshaykumar1511/leetcode/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/Akshaykumar1511/leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Akshaykumar1511/leetcode/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/Akshaykumar1511/leetcode/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
