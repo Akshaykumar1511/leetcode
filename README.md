@@ -135,6 +135,7 @@
 | [0412-fizz-buzz](https://github.com/Akshaykumar1511/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Akshaykumar1511/leetcode/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Akshaykumar1511/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akshaykumar1511/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Trie
 |  |
 | ------- |
@@ -407,6 +408,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Akshaykumar1511/leetcode/tree/master/0078-subsets) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akshaykumar1511/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bracket Sequences
 |  |
 | ------- |
