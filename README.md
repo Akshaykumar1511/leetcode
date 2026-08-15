@@ -21,6 +21,7 @@
 | [0056-merge-intervals](https://github.com/Akshaykumar1511/leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Akshaykumar1511/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Akshaykumar1511/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Akshaykumar1511/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Akshaykumar1511/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshaykumar1511/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Akshaykumar1511/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -91,6 +92,7 @@
 | [0020-valid-parentheses](https://github.com/Akshaykumar1511/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Akshaykumar1511/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Akshaykumar1511/leetcode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Akshaykumar1511/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Akshaykumar1511/leetcode/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akshaykumar1511/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Akshaykumar1511/leetcode/tree/master/0242-valid-anagram) |
@@ -161,6 +163,7 @@
 | [0048-rotate-image](https://github.com/Akshaykumar1511/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Akshaykumar1511/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Akshaykumar1511/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Akshaykumar1511/leetcode/tree/master/0079-word-search) |
 ## Counting
 |  |
 | ------- |
@@ -280,6 +283,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Akshaykumar1511/leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Akshaykumar1511/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Akshaykumar1511/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Akshaykumar1511/leetcode/tree/master/0101-symmetric-tree) |
@@ -388,6 +392,7 @@
 | [0046-permutations](https://github.com/Akshaykumar1511/leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Akshaykumar1511/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Akshaykumar1511/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Akshaykumar1511/leetcode/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
