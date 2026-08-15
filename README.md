@@ -184,6 +184,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Akshaykumar1511/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Akshaykumar1511/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Stack
 |  |
 | ------- |
@@ -296,6 +297,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Akshaykumar1511/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Akshaykumar1511/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Akshaykumar1511/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Akshaykumar1511/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -306,6 +308,7 @@
 | [0112-path-sum](https://github.com/Akshaykumar1511/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Akshaykumar1511/leetcode/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Akshaykumar1511/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Akshaykumar1511/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -401,4 +404,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Akshaykumar1511/leetcode/tree/master/0022-generate-parentheses) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Akshaykumar1511/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
