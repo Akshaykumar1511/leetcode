@@ -1,20 +1,21 @@
 from collections import defaultdict
 class Solution:
     def validPath(self, n: int, edges: List[List[int]], source: int, destination: int) -> bool:
-        if source==destination: return True
+        if source==destination:
+            return True
         d=defaultdict(list)
-        for u,v in edges:
-            d[u].append(v)
-            d[v].append(u)
+        for i,u in edges:
+            d[i].append(u)
+            d[u].append(i)
         seen=set()
         seen.add(source)
-        def back(i):
-            if i == destination:
+        def rec(i):
+            if destination==i:
                 return True
-            for node in d[i]:
-                if node not in seen:
-                    seen.add(node)
-                    if back(node):
+            for j in d[i]:
+                if j not in seen:
+                    seen.add(j)
+                    if rec(j):
                         return True
             return False
-        return back(source)
+        return rec(source)
