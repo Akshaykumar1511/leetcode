@@ -133,6 +133,7 @@
 | [0009-palindrome-number](https://github.com/Akshaykumar1511/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Akshaykumar1511/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Akshaykumar1511/leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Akshaykumar1511/leetcode/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akshaykumar1511/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0412-fizz-buzz](https://github.com/Akshaykumar1511/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Akshaykumar1511/leetcode/tree/master/0509-fibonacci-number) |
@@ -244,6 +245,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akshaykumar1511/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Akshaykumar1511/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Akshaykumar1511/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Akshaykumar1511/leetcode/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Akshaykumar1511/leetcode/tree/master/0509-fibonacci-number) |
 ## Database
