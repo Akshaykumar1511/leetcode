@@ -1,20 +1,18 @@
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
-        r,c=len(grid),len(grid[0])
-        island=0
-        def rec(i,j):
-            if i<0 or i>=r or j<0 or j>=c or grid[i][j]=="0":
+        def back(i,j):
+            if i<0 or i>=n or j<0 or j>=m or grid[i][j]=="0":
                 return
-            else:
-                grid[i][j]="0"
-                rec(i+1,j)
-                rec(i-1,j)
-                rec(i,j+1)
-                rec(i,j-1)                
-        for i in range(r):
-            for j in range(c):
+            grid[i][j]="0"
+            back(i+1,j)
+            back(i-1,j)
+            back(i,j+1)
+            back(i,j-1)
+        n,m=len(grid),len(grid[0])
+        cnt=0
+        for i in range(n):
+            for j in range(m):
                 if grid[i][j]=="1":
-                    island+=1
-                    grid[i][j]=="0"
-                    rec(i,j)
-        return island
+                    cnt+=1
+                    back(i,j)
+        return cnt
