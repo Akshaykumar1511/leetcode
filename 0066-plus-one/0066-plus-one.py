@@ -1,6 +1,7 @@
 class Solution:
     def plusOne(self, digits: List[int]) -> List[int]:
-        a=int("".join(map(str,digits)))
+        a="".join(map(str,digits))
+        a=int(a)
         a+=1
-        a=list(map(int,str(a)))
-        return a
+        a=str(a)
+        return list(map(int,a))
