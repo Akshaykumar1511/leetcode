@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/Akshaykumar1511/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Akshaykumar1511/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Akshaykumar1511/leetcode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Akshaykumar1511/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Akshaykumar1511/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Akshaykumar1511/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Akshaykumar1511/leetcode/tree/master/0049-group-anagrams) |
@@ -127,6 +128,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akshaykumar1511/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Akshaykumar1511/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshaykumar1511/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Akshaykumar1511/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Akshaykumar1511/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Akshaykumar1511/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Akshaykumar1511/leetcode/tree/master/0141-linked-list-cycle) |
@@ -169,6 +171,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Akshaykumar1511/leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Akshaykumar1511/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Akshaykumar1511/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshaykumar1511/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Akshaykumar1511/leetcode/tree/master/0392-is-subsequence) |
@@ -220,6 +223,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Akshaykumar1511/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Akshaykumar1511/leetcode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akshaykumar1511/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Akshaykumar1511/leetcode/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/Akshaykumar1511/leetcode/tree/master/0682-baseball-game) |
@@ -227,6 +231,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Akshaykumar1511/leetcode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Akshaykumar1511/leetcode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
