@@ -45,6 +45,7 @@
 | [0739-daily-temperatures](https://github.com/Akshaykumar1511/leetcode/tree/master/0739-daily-temperatures) |
 | [0973-k-closest-points-to-origin](https://github.com/Akshaykumar1511/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Akshaykumar1511/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/Akshaykumar1511/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akshaykumar1511/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Akshaykumar1511/leetcode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akshaykumar1511/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -189,6 +190,7 @@
 | [0200-number-of-islands](https://github.com/Akshaykumar1511/leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Akshaykumar1511/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Akshaykumar1511/leetcode/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/Akshaykumar1511/leetcode/tree/master/0994-rotting-oranges) |
 | [1672-richest-customer-wealth](https://github.com/Akshaykumar1511/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Counting
 |  |
@@ -356,6 +358,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Akshaykumar1511/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Akshaykumar1511/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0695-max-area-of-island](https://github.com/Akshaykumar1511/leetcode/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/Akshaykumar1511/leetcode/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Akshaykumar1511/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
