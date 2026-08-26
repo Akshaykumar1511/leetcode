@@ -54,6 +54,7 @@
 | [1046-last-stone-weight](https://github.com/Akshaykumar1511/leetcode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akshaykumar1511/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Akshaykumar1511/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Akshaykumar1511/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1672-richest-customer-wealth](https://github.com/Akshaykumar1511/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Akshaykumar1511/leetcode/tree/master/1929-concatenation-of-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Akshaykumar1511/leetcode/tree/master/2239-find-closest-number-to-zero) |
@@ -230,6 +231,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Akshaykumar1511/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Akshaykumar1511/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Akshaykumar1511/leetcode/tree/master/0695-max-area-of-island) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Akshaykumar1511/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Akshaykumar1511/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Stack
 |  |
@@ -488,6 +490,7 @@
 | [0133-clone-graph](https://github.com/Akshaykumar1511/leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Akshaykumar1511/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Akshaykumar1511/leetcode/tree/master/0210-course-schedule-ii) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Akshaykumar1511/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Akshaykumar1511/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -514,4 +517,20 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Akshaykumar1511/leetcode/tree/master/0229-majority-element-ii) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Akshaykumar1511/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Akshaykumar1511/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Akshaykumar1511/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Akshaykumar1511/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
