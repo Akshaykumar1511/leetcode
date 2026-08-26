@@ -38,6 +38,7 @@
 | [0228-summary-ranges](https://github.com/Akshaykumar1511/leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Akshaykumar1511/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Akshaykumar1511/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Akshaykumar1511/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Akshaykumar1511/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Akshaykumar1511/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0560-subarray-sum-equals-k](https://github.com/Akshaykumar1511/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -142,6 +143,7 @@
 | [0141-linked-list-cycle](https://github.com/Akshaykumar1511/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Akshaykumar1511/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshaykumar1511/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Akshaykumar1511/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Akshaykumar1511/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Akshaykumar1511/leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Akshaykumar1511/leetcode/tree/master/0567-permutation-in-string) |
