@@ -59,6 +59,7 @@
 | [1929-concatenation-of-array](https://github.com/Akshaykumar1511/leetcode/tree/master/1929-concatenation-of-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Akshaykumar1511/leetcode/tree/master/2239-find-closest-number-to-zero) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akshaykumar1511/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/Akshaykumar1511/leetcode/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Akshaykumar1511/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Akshaykumar1511/leetcode/tree/master/3731-find-missing-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Akshaykumar1511/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -88,6 +89,7 @@
 | [0567-permutation-in-string](https://github.com/Akshaykumar1511/leetcode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Akshaykumar1511/leetcode/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/Akshaykumar1511/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [3668-restore-finishing-order](https://github.com/Akshaykumar1511/leetcode/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Akshaykumar1511/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Akshaykumar1511/leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
