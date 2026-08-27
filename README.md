@@ -58,6 +58,7 @@
 | [1672-richest-customer-wealth](https://github.com/Akshaykumar1511/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Akshaykumar1511/leetcode/tree/master/1929-concatenation-of-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Akshaykumar1511/leetcode/tree/master/2239-find-closest-number-to-zero) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akshaykumar1511/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Akshaykumar1511/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Akshaykumar1511/leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -168,6 +169,7 @@
 | [0509-fibonacci-number](https://github.com/Akshaykumar1511/leetcode/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Akshaykumar1511/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akshaykumar1511/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akshaykumar1511/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Akshaykumar1511/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Trie
 |  |
