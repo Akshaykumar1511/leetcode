@@ -61,6 +61,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akshaykumar1511/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Akshaykumar1511/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Akshaykumar1511/leetcode/tree/master/3731-find-missing-elements) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Akshaykumar1511/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -213,6 +214,7 @@
 | [0695-max-area-of-island](https://github.com/Akshaykumar1511/leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Akshaykumar1511/leetcode/tree/master/0994-rotting-oranges) |
 | [1672-richest-customer-wealth](https://github.com/Akshaykumar1511/leetcode/tree/master/1672-richest-customer-wealth) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Akshaykumar1511/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Counting
 |  |
 | ------- |
@@ -501,6 +503,7 @@
 | [0743-network-delay-time](https://github.com/Akshaykumar1511/leetcode/tree/master/0743-network-delay-time) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Akshaykumar1511/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Akshaykumar1511/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Akshaykumar1511/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
 |  |
 | ------- |
