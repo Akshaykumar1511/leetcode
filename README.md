@@ -46,6 +46,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Akshaykumar1511/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Akshaykumar1511/leetcode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Akshaykumar1511/leetcode/tree/master/0695-max-area-of-island) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Akshaykumar1511/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/Akshaykumar1511/leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Akshaykumar1511/leetcode/tree/master/0739-daily-temperatures) |
 | [0973-k-closest-points-to-origin](https://github.com/Akshaykumar1511/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -202,6 +203,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshaykumar1511/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Akshaykumar1511/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Akshaykumar1511/leetcode/tree/master/0509-fibonacci-number) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Akshaykumar1511/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -345,6 +347,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Akshaykumar1511/leetcode/tree/master/0509-fibonacci-number) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Akshaykumar1511/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Tree
 |  |
 | ------- |
@@ -494,10 +497,12 @@
 | [0077-combinations](https://github.com/Akshaykumar1511/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Akshaykumar1511/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Akshaykumar1511/leetcode/tree/master/0079-word-search) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Akshaykumar1511/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Akshaykumar1511/leetcode/tree/master/0078-subsets) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Akshaykumar1511/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akshaykumar1511/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bracket Sequences
 |  |
@@ -570,4 +575,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Akshaykumar1511/leetcode/tree/master/0075-sort-colors) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Akshaykumar1511/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
