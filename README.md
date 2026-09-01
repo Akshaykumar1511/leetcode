@@ -180,6 +180,7 @@
 | [0412-fizz-buzz](https://github.com/Akshaykumar1511/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Akshaykumar1511/leetcode/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Akshaykumar1511/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Akshaykumar1511/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akshaykumar1511/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akshaykumar1511/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Akshaykumar1511/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -298,6 +299,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Akshaykumar1511/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Akshaykumar1511/leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Akshaykumar1511/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Akshaykumar1511/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
