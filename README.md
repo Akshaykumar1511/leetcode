@@ -82,6 +82,7 @@
 | [0141-linked-list-cycle](https://github.com/Akshaykumar1511/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Akshaykumar1511/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Akshaykumar1511/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Akshaykumar1511/leetcode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akshaykumar1511/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Akshaykumar1511/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Akshaykumar1511/leetcode/tree/master/0229-majority-element-ii) |
@@ -160,6 +161,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Akshaykumar1511/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Akshaykumar1511/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshaykumar1511/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Akshaykumar1511/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Akshaykumar1511/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Akshaykumar1511/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Akshaykumar1511/leetcode/tree/master/0392-is-subsequence) |
@@ -177,6 +179,7 @@
 | [0050-powx-n](https://github.com/Akshaykumar1511/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Akshaykumar1511/leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akshaykumar1511/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/Akshaykumar1511/leetcode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/Akshaykumar1511/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Akshaykumar1511/leetcode/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Akshaykumar1511/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -452,6 +455,7 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Akshaykumar1511/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Akshaykumar1511/leetcode/tree/master/0202-happy-number) |
 ## Binary Lifting
 |  |
 | ------- |
