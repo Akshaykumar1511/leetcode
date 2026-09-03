@@ -18,13 +18,14 @@ class Solution:
             for _ in range(len(q)):
                 curr=q.popleft()
                 if left_to_right:
-                    curl.appendleft(curr.val)
-                else:
                     curl.append(curr.val)
-                if curr.right:
-                    q.append(curr.right)
+                else:
+                    curl.appendleft(curr.val)
                 if curr.left:
                     q.append(curr.left)  
+                if curr.right:
+                    q.append(curr.right)
+                
             res.append(list(curl))
             left_to_right=not left_to_right 
         return res
