@@ -265,6 +265,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Akshaykumar1511/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Akshaykumar1511/leetcode/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Akshaykumar1511/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akshaykumar1511/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Akshaykumar1511/leetcode/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/Akshaykumar1511/leetcode/tree/master/0682-baseball-game) |
@@ -370,6 +371,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Akshaykumar1511/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Akshaykumar1511/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Akshaykumar1511/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Akshaykumar1511/leetcode/tree/master/0101-symmetric-tree) |
@@ -388,6 +390,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Akshaykumar1511/leetcode/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Akshaykumar1511/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Akshaykumar1511/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Akshaykumar1511/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Akshaykumar1511/leetcode/tree/master/0101-symmetric-tree) |
@@ -431,6 +434,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Akshaykumar1511/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Akshaykumar1511/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Akshaykumar1511/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Akshaykumar1511/leetcode/tree/master/0101-symmetric-tree) |
