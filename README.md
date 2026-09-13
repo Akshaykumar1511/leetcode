@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akshaykumar1511/leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Akshaykumar1511/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Akshaykumar1511/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Akshaykumar1511/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akshaykumar1511/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -246,6 +247,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Akshaykumar1511/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Akshaykumar1511/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Akshaykumar1511/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Akshaykumar1511/leetcode/tree/master/0169-majority-element) |
@@ -283,6 +285,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Akshaykumar1511/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Akshaykumar1511/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Akshaykumar1511/leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Akshaykumar1511/leetcode/tree/master/0074-search-a-2d-matrix) |
