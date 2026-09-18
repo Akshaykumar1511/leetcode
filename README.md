@@ -322,6 +322,7 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/Akshaykumar1511/leetcode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Akshaykumar1511/leetcode/tree/master/0176-second-highest-salary) |
+| [0178-rank-scores](https://github.com/Akshaykumar1511/leetcode/tree/master/0178-rank-scores) |
 | [0197-rising-temperature](https://github.com/Akshaykumar1511/leetcode/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/Akshaykumar1511/leetcode/tree/master/0511-game-play-analysis-i) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Akshaykumar1511/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
