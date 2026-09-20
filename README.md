@@ -148,6 +148,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Akshaykumar1511/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/Akshaykumar1511/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Akshaykumar1511/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Akshaykumar1511/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -203,6 +204,7 @@
 | [0682-baseball-game](https://github.com/Akshaykumar1511/leetcode/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/Akshaykumar1511/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Akshaykumar1511/leetcode/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/Akshaykumar1511/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/Akshaykumar1511/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
 |  |
