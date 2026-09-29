@@ -97,6 +97,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Akshaykumar1511/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Akshaykumar1511/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Akshaykumar1511/leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Akshaykumar1511/leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Akshaykumar1511/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Akshaykumar1511/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Akshaykumar1511/leetcode/tree/master/0389-find-the-difference) |
@@ -146,6 +147,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Akshaykumar1511/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akshaykumar1511/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Akshaykumar1511/leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Akshaykumar1511/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Akshaykumar1511/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Akshaykumar1511/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Akshaykumar1511/leetcode/tree/master/0389-find-the-difference) |
