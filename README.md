@@ -164,6 +164,7 @@
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Akshaykumar1511/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Akshaykumar1511/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3110-score-of-a-string](https://github.com/Akshaykumar1511/leetcode/tree/master/3110-score-of-a-string) |
+| [3174-clear-digits](https://github.com/Akshaykumar1511/leetcode/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Akshaykumar1511/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
@@ -225,6 +226,7 @@
 | [0735-asteroid-collision](https://github.com/Akshaykumar1511/leetcode/tree/master/0735-asteroid-collision) |
 | [1920-build-array-from-permutation](https://github.com/Akshaykumar1511/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Akshaykumar1511/leetcode/tree/master/1929-concatenation-of-array) |
+| [3174-clear-digits](https://github.com/Akshaykumar1511/leetcode/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Akshaykumar1511/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/Akshaykumar1511/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
@@ -298,6 +300,7 @@
 | [0735-asteroid-collision](https://github.com/Akshaykumar1511/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Akshaykumar1511/leetcode/tree/master/0739-daily-temperatures) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akshaykumar1511/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [3174-clear-digits](https://github.com/Akshaykumar1511/leetcode/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
