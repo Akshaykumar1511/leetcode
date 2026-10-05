@@ -158,6 +158,7 @@
 | [0567-permutation-in-string](https://github.com/Akshaykumar1511/leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Akshaykumar1511/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Akshaykumar1511/leetcode/tree/master/0771-jewels-and-stones) |
+| [0856-score-of-parentheses](https://github.com/Akshaykumar1511/leetcode/tree/master/0856-score-of-parentheses) |
 | [0929-unique-email-addresses](https://github.com/Akshaykumar1511/leetcode/tree/master/0929-unique-email-addresses) |
 | [1189-maximum-number-of-balloons](https://github.com/Akshaykumar1511/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akshaykumar1511/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -302,6 +303,7 @@
 | [0682-baseball-game](https://github.com/Akshaykumar1511/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Akshaykumar1511/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Akshaykumar1511/leetcode/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/Akshaykumar1511/leetcode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akshaykumar1511/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3174-clear-digits](https://github.com/Akshaykumar1511/leetcode/tree/master/3174-clear-digits) |
 ## Monotonic Stack
@@ -606,6 +608,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Akshaykumar1511/leetcode/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Akshaykumar1511/leetcode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akshaykumar1511/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Graph Theory
 |  |
