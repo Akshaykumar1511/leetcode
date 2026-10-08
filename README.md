@@ -161,6 +161,7 @@
 | [0856-score-of-parentheses](https://github.com/Akshaykumar1511/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Akshaykumar1511/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0929-unique-email-addresses](https://github.com/Akshaykumar1511/leetcode/tree/master/0929-unique-email-addresses) |
+| [1021-remove-outermost-parentheses](https://github.com/Akshaykumar1511/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/Akshaykumar1511/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akshaykumar1511/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1408-string-matching-in-an-array](https://github.com/Akshaykumar1511/leetcode/tree/master/1408-string-matching-in-an-array) |
@@ -306,6 +307,7 @@
 | [0739-daily-temperatures](https://github.com/Akshaykumar1511/leetcode/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/Akshaykumar1511/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Akshaykumar1511/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Akshaykumar1511/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akshaykumar1511/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3174-clear-digits](https://github.com/Akshaykumar1511/leetcode/tree/master/3174-clear-digits) |
 ## Monotonic Stack
@@ -612,6 +614,7 @@
 | [0022-generate-parentheses](https://github.com/Akshaykumar1511/leetcode/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Akshaykumar1511/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Akshaykumar1511/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Akshaykumar1511/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akshaykumar1511/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Graph Theory
 |  |
