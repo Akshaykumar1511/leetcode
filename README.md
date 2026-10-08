@@ -143,6 +143,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshaykumar1511/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Akshaykumar1511/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Akshaykumar1511/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Akshaykumar1511/leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Akshaykumar1511/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Akshaykumar1511/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Akshaykumar1511/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -208,6 +209,7 @@
 | [0048-rotate-image](https://github.com/Akshaykumar1511/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Akshaykumar1511/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Akshaykumar1511/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Akshaykumar1511/leetcode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akshaykumar1511/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Akshaykumar1511/leetcode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/Akshaykumar1511/leetcode/tree/master/0412-fizz-buzz) |
@@ -227,6 +229,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Akshaykumar1511/leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Akshaykumar1511/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Akshaykumar1511/leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Akshaykumar1511/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Akshaykumar1511/leetcode/tree/master/0735-asteroid-collision) |
@@ -604,6 +607,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Akshaykumar1511/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Akshaykumar1511/leetcode/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/Akshaykumar1511/leetcode/tree/master/0389-find-the-difference) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Akshaykumar1511/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
