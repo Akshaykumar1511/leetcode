@@ -48,6 +48,7 @@
 | [0485-max-consecutive-ones](https://github.com/Akshaykumar1511/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Akshaykumar1511/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Akshaykumar1511/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/Akshaykumar1511/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Akshaykumar1511/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Akshaykumar1511/leetcode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Akshaykumar1511/leetcode/tree/master/0695-max-area-of-island) |
@@ -700,6 +701,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/Akshaykumar1511/leetcode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Akshaykumar1511/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Akshaykumar1511/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Akshaykumar1511/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
