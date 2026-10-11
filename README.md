@@ -69,6 +69,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Akshaykumar1511/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Akshaykumar1511/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1672-richest-customer-wealth](https://github.com/Akshaykumar1511/leetcode/tree/master/1672-richest-customer-wealth) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Akshaykumar1511/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Akshaykumar1511/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Akshaykumar1511/leetcode/tree/master/1929-concatenation-of-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Akshaykumar1511/leetcode/tree/master/2239-find-closest-number-to-zero) |
@@ -110,6 +111,7 @@
 | [0771-jewels-and-stones](https://github.com/Akshaykumar1511/leetcode/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/Akshaykumar1511/leetcode/tree/master/0929-unique-email-addresses) |
 | [1189-maximum-number-of-balloons](https://github.com/Akshaykumar1511/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Akshaykumar1511/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3668-restore-finishing-order](https://github.com/Akshaykumar1511/leetcode/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Akshaykumar1511/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Akshaykumar1511/leetcode/tree/master/3731-find-missing-elements) |
@@ -131,6 +133,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Akshaykumar1511/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Akshaykumar1511/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akshaykumar1511/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Akshaykumar1511/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3731-find-missing-elements](https://github.com/Akshaykumar1511/leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -200,6 +203,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Akshaykumar1511/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Akshaykumar1511/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Akshaykumar1511/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Akshaykumar1511/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Akshaykumar1511/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2396-strictly-palindromic-number](https://github.com/Akshaykumar1511/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Akshaykumar1511/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
