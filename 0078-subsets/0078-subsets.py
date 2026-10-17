@@ -1,12 +1,10 @@
 class Solution:
-    def subsets(self, nums: List[int]) -> List[List[int]]:
+    def subsets(self, nums: list[int]) -> list[list[int]]:
         def back(i):
             if i==len(nums):
                 res.append(sol[:])
                 return
-            #dont pick anything
             back(i+1)
-            #pick
             sol.append(nums[i])
             back(i+1)
             sol.pop()
