@@ -75,6 +75,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Akshaykumar1511/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1920-build-array-from-permutation](https://github.com/Akshaykumar1511/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Akshaykumar1511/leetcode/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Akshaykumar1511/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Akshaykumar1511/leetcode/tree/master/2239-find-closest-number-to-zero) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Akshaykumar1511/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akshaykumar1511/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -143,6 +144,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akshaykumar1511/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Akshaykumar1511/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Akshaykumar1511/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Akshaykumar1511/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3731-find-missing-elements](https://github.com/Akshaykumar1511/leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -357,6 +359,7 @@
 | [0278-first-bad-version](https://github.com/Akshaykumar1511/leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Akshaykumar1511/leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akshaykumar1511/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Akshaykumar1511/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Linked List
 |  |
 | ------- |
