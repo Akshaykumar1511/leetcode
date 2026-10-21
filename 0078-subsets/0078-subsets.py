@@ -8,6 +8,6 @@ class Solution:
             sol.append(nums[i])
             back(i+1)
             sol.pop()
-        sol,res=[],[]
+        res,sol=[],[]
         back(0)
         return res
