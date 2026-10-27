@@ -70,6 +70,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Akshaykumar1511/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Akshaykumar1511/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Akshaykumar1511/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshaykumar1511/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/Akshaykumar1511/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Akshaykumar1511/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Akshaykumar1511/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -119,6 +120,7 @@
 | [0929-unique-email-addresses](https://github.com/Akshaykumar1511/leetcode/tree/master/0929-unique-email-addresses) |
 | [1189-maximum-number-of-balloons](https://github.com/Akshaykumar1511/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Akshaykumar1511/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshaykumar1511/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Akshaykumar1511/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Akshaykumar1511/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akshaykumar1511/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -281,6 +283,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Akshaykumar1511/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akshaykumar1511/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Akshaykumar1511/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshaykumar1511/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -364,6 +367,7 @@
 | [0278-first-bad-version](https://github.com/Akshaykumar1511/leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Akshaykumar1511/leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akshaykumar1511/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshaykumar1511/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Akshaykumar1511/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Linked List
 |  |
@@ -465,6 +469,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Akshaykumar1511/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akshaykumar1511/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akshaykumar1511/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akshaykumar1511/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Akshaykumar1511/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Memoization
 |  |
