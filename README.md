@@ -102,6 +102,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Akshaykumar1511/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Akshaykumar1511/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Akshaykumar1511/leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Akshaykumar1511/leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akshaykumar1511/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Akshaykumar1511/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Akshaykumar1511/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -166,6 +167,7 @@
 | [0125-valid-palindrome](https://github.com/Akshaykumar1511/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Akshaykumar1511/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Akshaykumar1511/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/Akshaykumar1511/leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akshaykumar1511/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Akshaykumar1511/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Akshaykumar1511/leetcode/tree/master/0290-word-pattern) |
