@@ -176,6 +176,7 @@
 | [0383-ransom-note](https://github.com/Akshaykumar1511/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Akshaykumar1511/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Akshaykumar1511/leetcode/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/Akshaykumar1511/leetcode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Akshaykumar1511/leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akshaykumar1511/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Akshaykumar1511/leetcode/tree/master/0567-permutation-in-string) |
@@ -336,6 +337,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Akshaykumar1511/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akshaykumar1511/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Akshaykumar1511/leetcode/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/Akshaykumar1511/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Akshaykumar1511/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Akshaykumar1511/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Akshaykumar1511/leetcode/tree/master/0735-asteroid-collision) |
@@ -349,6 +351,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Akshaykumar1511/leetcode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Akshaykumar1511/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Akshaykumar1511/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Akshaykumar1511/leetcode/tree/master/0739-daily-temperatures) |
 ## Design
@@ -747,6 +750,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Akshaykumar1511/leetcode/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/Akshaykumar1511/leetcode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Akshaykumar1511/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Akshaykumar1511/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
