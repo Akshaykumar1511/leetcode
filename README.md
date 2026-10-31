@@ -78,6 +78,7 @@
 | [1929-concatenation-of-array](https://github.com/Akshaykumar1511/leetcode/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Akshaykumar1511/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Akshaykumar1511/leetcode/tree/master/2239-find-closest-number-to-zero) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Akshaykumar1511/leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Akshaykumar1511/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akshaykumar1511/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akshaykumar1511/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -193,6 +194,7 @@
 | [1768-merge-strings-alternately](https://github.com/Akshaykumar1511/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Akshaykumar1511/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Akshaykumar1511/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Akshaykumar1511/leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Akshaykumar1511/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3110-score-of-a-string](https://github.com/Akshaykumar1511/leetcode/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/Akshaykumar1511/leetcode/tree/master/3174-clear-digits) |
