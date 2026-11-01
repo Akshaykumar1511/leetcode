@@ -3,10 +3,10 @@ class Solution:
         stk=[]
         for i in num:
             while k>0 and stk and stk[-1]>i:
-                k-=1
                 stk.pop()
+                k-=1
             stk.append(i)
         if k>0:
             stk=stk[:-k]
-        res= "".join(stk).lstrip("0")
-        return res if res else "0"
+        stk=("".join(stk)).lstrip("0")
+        return stk if stk else "0"
