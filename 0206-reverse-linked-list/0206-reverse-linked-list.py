@@ -4,9 +4,8 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        curr=head
-        dummy=None
+    def reverseList(self, head: ListNode | None) -> ListNode | None:
+        dummy,curr=None,head
         while curr:
             nxt=curr.next
             curr.next=dummy
